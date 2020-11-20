@@ -8,8 +8,7 @@ Models I will use: Support Vector Machine Classifier, Random Forest, Logistic Re
 ### Files Descriptions
 * __Predicting-a-Pulsar-Star.ipynb__ includes data preparation, analysis, visualization, and machine learning models
 * __pulsar_stars.csv__ dataset from Kaggle
-* __planning_neighborhoods__ folder includes geodata about San Francisco neighbourhoods
-* this __README.md___
+* this __README.md__
 * __LICENSE.md__
 * __gitignore.txt__
 
